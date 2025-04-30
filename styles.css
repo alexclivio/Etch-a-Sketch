@@ -1,0 +1,20 @@
+#grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 2px solid;
+  border-color: blue;
+  width: 512px;
+}
+
+.grid-square {
+  border: 1px solid;
+  border-color: black;
+  width: 30px;
+  height: 30px;
+}
+
+.hover-in {
+  background-color:aquamarine;
+}
+
